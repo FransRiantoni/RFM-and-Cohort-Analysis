@@ -1,0 +1,52 @@
+https://www.kaggle.com/carrie1/ecommerce-data 
+
+
+Studi Kasus
+https://docs.google.com/document/u/0/d/1IeN6ZbJ--ZQRSnOAkHm0G_rOPAH-NLKB9fdOJ8XFF3k/mobilebasic 
+
+Selama pandemic COVID-19 pada tahun 2020, total peningkatan penjualan di e-commerce meningkat hingga 37%. 
+Karena persaingan antar kompetitor yang semakin ketat, kamu dan Product Manager-mu sedang melakukan diskusi terkait ""bagaimana cara agar tetap bertahan dan bersaing di industri e-commerce"". 
+Setelah itu, kalian memutuskan untuk """membuat suatu inovasi atau penawaran agar users tetap memilih kalian sebagai media belanja onlinenya"".
+Untuk itu, kamu ditugaskan untuk melakukan ""analisis terkait transaksi dari data pengguna baru"". 
+Akan tetapi, permasalahannya adalah perusahaan sedang ""melakukan efisiensi terkait pengelolaan dana promosi di 2021"". 
+Sebagai seorang data analyst, insights dan rekomendasi apa yang dapat kamu berikan untuk perusahaan tersebut?
+
+
+Data Set: Download disini
+
+Data set yang digunakan merupakan open data dari Kaggle.
+Kolom Country tidak perlu dihiraukan untuk kasus ini
+Tahun di kolom InvoiceDate perlu diganti ke tahun 2020 sampai 2021 untuk kasus ini
+Data dalam kolom UnitPrice dalam US dollar
+Kamu bisa menggunakan data pendukung atau asumsi yang dapat dijustifikasi
+
+Petunjuk Pengerjaan
+
+Unduh data set dari tautan di atas. Olah data menggunakan software pilihanmu; bisa menggunakan excel, pandas, atau tools lainnya.
+Tentukan problem statement dari studi kasus diatas.
+Buat story-telling berdasarkan asumsi dan masalah yang kamu temukan.
+Buat visualisasi data atas permasalahan yang ingin kamu angkat untuk meyakinkan Product Manager-mu atas rekomendasimu.
+Tulis rekomendasimu dengan konkrit.
+Kamu boleh menyusun solusi case study ini dalam format PDF.
+
+Pengumpulan
+
+File yg akan diupload dibuat dengan format nama file:
+Studia x DSI - [Nama Lengkap].pdf
+Kumpulkan tugasmu sebelum tanggal 21 Februari 2021 23.59 WIB ke link berikut: http://bit.ly/StudiaxDSIcasestudysubmission
+Submisi yang menarik akan direview oleh Data Analyst Traveloka dan APM Pinhome.
+Submisi terbaik akan di post di medium Data Science Indonesia.
+Apabila ada yang ingin kamu tanyakan terkait studi kasus atau webinar, bisa mengirimkan email ke: talktostudia@gmail.com
+
+
+
+https://www.kaggle.com/fabiendaniel/customer-segmentation
+https://www.kaggle.com/admond1994/e-commerce-data-eda
+https://www.kaggle.com/yugagrawal95/rfm-analysis
+https://www.kaggle.com/slehkyi/e-commerce-predicting-sales
+https://www.kaggle.com/biphili/making-sense-of-e-commerce-data
+https://www.kaggle.com/abdulmeral/rfm-analysis-for-successful-customer-segmentation
+https://www.kaggle.com/rams143/customer-targeting-salels-forecast
+
+https://github.com/maoting1223/pycon_sg_2016/blob/master/sample.py
+
